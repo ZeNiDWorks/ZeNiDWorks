@@ -6,7 +6,7 @@
   - 💼 &nbsp; I’m currently working on new cool projects.
   - 🌱 &nbsp; Learning more about Frontend Developement.
   
-# :eye_speech_bubble: | GitHub Statistics
+# 👀 | GitHub Statistics
 ![ZeNiD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zenidworks&show_icons=true&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenidworks&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
